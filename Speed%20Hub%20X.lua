@@ -1,4 +1,4 @@
-loadstring(game:HttpGet("https://raw.githubusercontent.com/goatdkai/Script2/refs/heads/main/2autofarm.lua"))()
+loadstring(game:HttpGet("https://raw.githubusercontent.com/CodedSai/GrowAGarden2/refs/heads/main/SpeedHubX"))()
 
 task.wait(0.5)
 
